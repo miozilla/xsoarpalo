@@ -1,5 +1,5 @@
 # xsoarpalo 🏦🔶🔐
-xsoarpalo : Phishing Insident Response Automation # Cortex XSOAR # Palo Alto Networks # SOAR
+xsoarpalo : Phishing Incident Response Automation # Cortex XSOAR # Palo Alto Networks # SOAR
 
 
 ## Objective
